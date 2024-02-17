@@ -16,7 +16,9 @@
         "biomeWhitelist": [
           "minecraft:badlands",
           "minecraft:eroded_badlands",
-          "minecraft:wooded_badlands"
+          "minecraft:wooded_badlands",
+          "minecraft:river",
+          "minecraft:desert"
         ]
       },
       "replace": true
@@ -30,7 +32,7 @@
       "minY": -64,
       "maxY": 32,
       "maxVeinSize": 9,
-      "spawnRate": 4.0,
+      "spawnRate": 2.0,
       "discardChanceOnAirExposure": 0.0,
       "biomeFilters": {
         "biomeBlacklist": [],

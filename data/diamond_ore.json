@@ -9,7 +9,7 @@
       "minY": -144,
       "maxY": 16,
       "maxVeinSize": 4,
-      "spawnRate": 7.0,
+      "spawnRate": 14.0,
       "discardChanceOnAirExposure": 0.0,
       "biomeFilters": {
         "biomeBlacklist": [],
@@ -28,7 +28,7 @@
       "minY": -144,
       "maxY": 16,
       "maxVeinSize": 12,
-      "spawnRate": 0.11111111,
+      "spawnRate": 0.22,
       "discardChanceOnAirExposure": 0.0,
       "biomeFilters": {
         "biomeBlacklist": [],
@@ -47,7 +47,7 @@
       "minY": -144,
       "maxY": 16,
       "maxVeinSize": 8,
-      "spawnRate": 4.0,
+      "spawnRate": 8.0,
       "discardChanceOnAirExposure": 0.0,
       "biomeFilters": {
         "biomeBlacklist": [],

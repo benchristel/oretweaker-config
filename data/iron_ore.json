@@ -5,10 +5,10 @@
       "fillers": [
         "STONE_ORE_REPLACEABLES"
       ],
-      "distribution": "TRIANGLE",
-      "minY": 80,
+      "distribution": "UNIFORM",
+      "minY": 64,
       "maxY": 384,
-      "maxVeinSize": 9,
+      "maxVeinSize": 18,
       "spawnRate": 90.0,
       "discardChanceOnAirExposure": 0.0,
       "biomeFilters": {

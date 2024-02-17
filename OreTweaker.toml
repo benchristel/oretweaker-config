@@ -8,7 +8,7 @@
 	#Attempts to generate default templates if not present
 	generate_templates = false
 	#Attempts to generate default settings if not present
-	generate_default_settings = true
+	generate_default_settings = false
 
 [GENERATOR]
 	#Disables large veins from generating

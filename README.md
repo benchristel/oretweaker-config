@@ -1,6 +1,6 @@
 # Ore Tweaker Config
 
-This repo configures [Ore Tweaker](https://www.curseforge.com/minecraft/mc-mods/ore-tweaker) for a Minecraft modpack I'm making.
+This repo configures [Ore Tweaker](https://www.curseforge.com/minecraft/mc-mods/ore-tweaker) for [a Minecraft modpack I'm making](https://github.com/benchristel/minecraft-modpack-rebalance).
 
 The objective of the modpack is to rebalance the game, de-emphasizing trading and automatic farming, and emphasizing exploration, building, and mining.
 

@@ -17,3 +17,10 @@ This Ore Tweaker config contributes to that objective in the following ways:
   - This change should make it viable to craft your own diamond gear.
 - Makes all ores more abundant in caves.
   - This makes caving more lucrative, and gives players more of an incentive to explore dangerous areas.
+ 
+## Installation
+
+```
+cd ~/.minecraft/config # or wherever your config is stored
+git clone https://github.com/benchristel/oretweaker-config oretweaker
+```
